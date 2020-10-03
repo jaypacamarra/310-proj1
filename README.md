@@ -9,8 +9,8 @@ Authors: Batuhan Lal, Jay Pacamarra, Jaskanwal Singh Mundra
 Oscilloscope program using LabView with basic time and frequency domain features. 
 
 ## Folder Organization
-* Display:    Contains the VI module that displays our input
-* Executable: Contains the executable file to run without labVIEW
-* Features:   Contains the .docx and .txt of our features checklis for tracking feature implementation
-* Pictures:   Reference pictures
-* subVI:      Contains the subVIs and dependancies to be used throught the program
+* <b>Display</b>:    Contains the VI module that displays our input
+* <b)Executable</b>: Contains the executable file to run without labVIEW
+* <b>Features</b>:   Contains the .docx and .txt of our features checklis for tracking feature implementation
+* <b>Pictures</b>:   Reference pictures
+* <b>subVI</b>:      Contains the subVIs and dependancies to be used throught the program
