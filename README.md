@@ -18,6 +18,8 @@ Oscilloscope program using LabView with basic time and frequency domain features
 
 ## Helpful Links
 Getting started with labVIEW: <br />
-shorturl.at/drtxA  <br />
+shorturl.at/drtxA  
+<br />
 Best Practices for Managing NI LabVIEW Applications Using the Project Explorer: <br />
-shorturl.at/pqsPV  <br />
+shorturl.at/pqsPV  
+<br />
