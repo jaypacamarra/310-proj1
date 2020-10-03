@@ -1,9 +1,14 @@
-# 310-proj1
+# MSE 310 Oscilloscope Project
 Project 1 of MSE 310 - Started: September 30, 2020
+Authors: Batuhan Lal, Jay Pacamarra, Jaskanwal Singh Mundra
 
-# Due Date
+## Due Date
 <b>October 27, 2020</b>
 
-Oscilloscope program using LabView with basic time and frequency domain features.
+## Project Description
+Oscilloscope program using LabView with basic time and frequency domain features. 
 
-## Hello
+## Folder Organization
+* 
+* 
+*
