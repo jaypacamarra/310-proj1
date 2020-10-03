@@ -26,4 +26,8 @@ Oscilloscope program using LabView with basic time and frequency domain features
 "I think it is possible for ordinary people to choose to be extraordinary."
     - Elon Musk
 ```
+```html
+"Failure is the opportunity to begin again more intelligently." 
+    – Henry Ford
+```
 
