@@ -1,5 +1,5 @@
 # MSE 310 Oscilloscope Project
-Started: September 30, 2020  \n
+Started: September 30, 2020  <br />
 Authors: Batuhan Lal, Jay Pacamarra, Jaskanwal Singh Mundra
 
 ## Due Date
