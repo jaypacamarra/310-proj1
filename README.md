@@ -6,7 +6,7 @@ Authors: Batuhan, Jay, Jaskanwal
 <b>October 27, 2020</b>
 
 ## Project Description
-Oscilloscope program using LabView with basic time and frequency domain features. 
+Oscilloscope program using LabView with basic time and frequency domain features. [Download](https://canvas.sfu.ca/courses/57234/files/13505786/download?wrap=1)
 
 ## Folder Organization
 * <b>Display</b>:     Contains the VI module that displays our input waveform
