@@ -17,8 +17,7 @@ Oscilloscope program using LabView with basic time and frequency domain features
 * <b>subVI</b>:      Contains the subVIs and dependancies to be used throught the program
 
 ## Helpful Links
-Getting started with labVIEW:  <br />
-https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-labview%3Ftrk%3Dshare_ent_url&account=67553266
+Getting started with labVIEW:  [link to Google!](http://google.com)
 <br />
 Best Practices for Managing NI LabVIEW Applications Using the Project Explorer: <br />
 https://www.ni.com/en-ca/support/documentation/supplemental/08/best-practices-for-managing-ni-labview-applications-using-the-pr.html#section-1065174310 
