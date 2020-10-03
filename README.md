@@ -15,3 +15,5 @@ Oscilloscope program using LabView with basic time and frequency domain features
 * <b>Pictures</b>:   Reference pictures
 * <b>Project</b>:   Contains the project lvlps and alias files for proper linking
 * <b>subVI</b>:      Contains the subVIs and dependancies to be used throught the program
+
+[Google] (www.google.com)
