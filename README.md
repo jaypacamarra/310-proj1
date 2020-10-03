@@ -19,6 +19,7 @@ Oscilloscope program using LabView with basic time and frequency domain features
 ## Helpful Links
 [Getting started with labVIEW](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-labview%3Ftrk%3Dshare_ent_url&account=67553266) <br />
 [Best Practices for Managing NI LabVIEW Applications Using the Project Explorer](https://www.ni.com/en-ca/support/documentation/supplemental/08/best-practices-for-managing-ni-labview-applications-using-the-pr.html#section-1065174310)  <br />
+[labVIEW Style Checklist](https://zone.ni.com/reference/en-XX/help/371361R-01/lvdevconcepts/checklist/) <br/>
 [Basics of git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) <br />
 
 ## Inspiration
