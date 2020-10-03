@@ -24,15 +24,15 @@ Oscilloscope program using LabView with basic time and frequency domain features
 ## Inspiration
 ```html
 "I think it is possible for ordinary people to choose to be extraordinary."
-    - Elon Musk
+                                            - Elon Musk
 ```
 ```html
 "Failure is the opportunity to begin again more intelligently." 
-    – Henry Ford
+                                            – Henry Ford
 ```
 ```html
 "At its heart engineering is about using science to find creative 
  practical solutions. It’s a noble profession." 
-    – Queen Elizabeth II
+                                            – Queen Elizabeth II
 ```
 
