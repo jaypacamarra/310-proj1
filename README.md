@@ -21,9 +21,9 @@ Oscilloscope program using LabView with basic time and frequency domain features
 [Best Practices for Managing NI LabVIEW Applications Using the Project Explorer](https://www.ni.com/en-ca/support/documentation/supplemental/08/best-practices-for-managing-ni-labview-applications-using-the-pr.html#section-1065174310)  <br />
 [Basics of git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) <br />
 
+## Inspiration
 ```html
-Hello my name is bob I like kittens. A horse is cool because it goes fast. Zoom.
-asdasd
-asdasd
+"I think it is possible for ordinary people to choose to be extraordinary."
+    - Elon Musk
 ```
 
