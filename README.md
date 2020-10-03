@@ -30,4 +30,8 @@ Oscilloscope program using LabView with basic time and frequency domain features
 "Failure is the opportunity to begin again more intelligently." 
     – Henry Ford
 ```
+```html
+"At its heart engineering is about using science to find creative practical solutions. It’s a noble profession." 
+    – Queen Elizabeth II
+```
 
