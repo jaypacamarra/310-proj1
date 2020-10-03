@@ -6,15 +6,16 @@ Authors: Batuhan, Jay, Jaskanwal
 <b>October 27, 2020</b>
 
 ## Project Description
-Oscilloscope program using LabView with basic time and frequency domain features. 
+Oscilloscope program using LabView with basic time and frequency domain features. [Download](https://canvas.sfu.ca/courses/57234/files/13505786/download?wrap=1)
 
 ## Folder Organization
-* <b>Display</b>:    Contains the VI module that displays our input waveform
-* <b>Executable</b>: Contains the executable file
-* <b>Features</b>:   Contains the .docx and .txt of our features checklist for tracking feature implementation
-* <b>Pictures</b>:   Reference pictures
-* <b>Project</b>:   Contains the project lvlps and alias files for proper linking
-* <b>subVI</b>:      Contains the subVIs and dependancies to be used throughout the program
+* <b>Display</b>:     Contains the VI module that displays our input waveform
+* <b>Executable</b>:  Contains the executable file
+* <b>Features</b>:    Contains the .docx and .txt of our features checklist for tracking feature implementation
+* <b>Pictures</b>:    Reference pictures
+* <b>Project</b>:     Contains the project lvlps, lvproj and alias files for proper linking
+* <b>Test files</b>:  Contains the test files (vi, wav, mp3, csv, etc.) 
+* <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program
 
 ## Helpful Links
 [Getting started with labVIEW](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-labview%3Ftrk%3Dshare_ent_url&account=67553266) <br />
