@@ -13,7 +13,7 @@ Oscilloscope program using LabView with basic time and frequency domain features
 * <b>Executable</b>:  Contains the executable file
 * <b>Features</b>:    Contains the .docx and .txt of our features checklist for tracking feature implementation
 * <b>Pictures</b>:    Reference pictures
-* <b>Project</b>:     Contains the project lvlps and alias files for proper linking
+* <b>Project</b>:     Contains the project lvlps, lvproj and alias files for proper linking
 * <b>Test files</b>:  Contains the test files (vi, wav, mp3, csv, etc.) 
 * <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program
 
