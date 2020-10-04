@@ -16,7 +16,8 @@ Oscilloscope program using LabView with basic time and frequency domain features
 * <b>Meeting notes</b>:    Contains notes on our meetings or work seshions
 * <b>Project</b>:     Contains the project lvlps, lvproj and alias files for proper linking
 * <b>Test files</b>:  Contains the test files (vi, wav, mp3, csv, etc.) 
-* <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program <br/>
+* <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program 
+<br/>
 Note: The Oscilloscope.vi is our main VI program to run
 
 ## Helpful Links
