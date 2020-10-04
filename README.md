@@ -17,6 +17,7 @@ Oscilloscope program using LabView with basic time and frequency domain features
 * <b>Project</b>:     Contains the project lvlps, lvproj and alias files for proper linking
 * <b>Test files</b>:  Contains the test files (vi, wav, mp3, csv, etc.) 
 * <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program
+Note: The Oscilloscope.vi is our main VI program to run
 
 ## Helpful Links
 [Getting started with labVIEW](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-labview%3Ftrk%3Dshare_ent_url&account=67553266) <br />
