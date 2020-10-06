@@ -23,6 +23,9 @@ Oscilloscope program using LabView with basic time and frequency domain features
 [labVIEW Style Checklist](https://zone.ni.com/reference/en-XX/help/371361R-01/lvdevconcepts/checklist/) <br/>
 [Basics of git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) <br />
 
+## Git Tutorial Video
+Hi I created a quick git tutorial for using it in this project. Please view it [here](https://www.youtube.com/watch?v=6JEwDfjpPsQ).
+
 ## Inspiration
 ```html
 "I think it is possible for ordinary people to choose to be extraordinary."
