@@ -22,7 +22,7 @@ Note: The Oscilloscope.vi is our main VI program to run
 https://sfuca0-my.sharepoint.com/:w:/g/personal/jmundra_sfuca0_onmicrosoft_com/EYpSmdjfytJAsx2PuVz0oXsBiis0jaeZZcZ1D03k6TCFTQ?rtime=FFteHuls2Eg
 
 ## Features Checklist
-https://sfuca0-my.sharepoint.com/:w:/g/personal/jpacamar_sfuca0_onmicrosoft_com/Ef9F2MICSh1Nvns9HcJNUoEB8523q1uTJF0U1xLf-tY1ng?e=Z9zybv
+https://sfuca0-my.sharepoint.com/:w:/g/personal/jpacamar_sfuca0_onmicrosoft_com/Eao-jmYIa8xAtl5ntI22ZywBv2d_BHgjBzcks-CBqQQowg?e=ndlR9f
 
 ## Helpful Links
 [Getting started with labVIEW](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-labview%3Ftrk%3Dshare_ent_url&account=67553266) <br />
