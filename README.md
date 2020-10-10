@@ -33,9 +33,6 @@ https://sfuca0-my.sharepoint.com/:w:/g/personal/jpacamar_sfuca0_onmicrosoft_com/
 ## Git Tutorial Video
 Hi I created a quick git tutorial for using it in this project. Please view it [here](https://www.youtube.com/watch?v=6JEwDfjpPsQ).
 
-## Git Tutorial Video
-Hi I created a quick git tutorial for using it in this project. Please view it [here](https://www.youtube.com/watch?v=6JEwDfjpPsQ).
-
 ## Inspiration
 ```html
 "I think it is possible for ordinary people to choose to be extraordinary."
