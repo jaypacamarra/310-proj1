@@ -17,6 +17,12 @@ Oscilloscope program using LabView with basic time and frequency domain features
 * <b>Test files</b>:  Contains the test files (vi, wav, mp3, csv, etc.) 
 * <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program
 
+## Meeting Notes
+https://sfuca0-my.sharepoint.com/:w:/g/personal/jmundra_sfuca0_onmicrosoft_com/EYpSmdjfytJAsx2PuVz0oXsBiis0jaeZZcZ1D03k6TCFTQ?rtime=FFteHuls2Eg
+
+## Features Checklist
+https://sfuca0-my.sharepoint.com/:w:/g/personal/jpacamar_sfuca0_onmicrosoft_com/Eao-jmYIa8xAtl5ntI22ZywBv2d_BHgjBzcks-CBqQQowg?e=ndlR9f
+
 ## Helpful Links
 [Getting started with labVIEW](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-labview%3Ftrk%3Dshare_ent_url&account=67553266) <br />
 [Best Practices for Managing NI LabVIEW Applications Using the Project Explorer](https://www.ni.com/en-ca/support/documentation/supplemental/08/best-practices-for-managing-ni-labview-applications-using-the-pr.html#section-1065174310)  <br />
