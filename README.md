@@ -11,14 +11,18 @@ Oscilloscope program using LabView with basic time and frequency domain features
 ## Folder Organization
 * <b>Display</b>:     Contains the VI module that displays our input waveform
 * <b>Executable</b>:  Contains the executable file
-* <b>Features</b>:    Contains the .docx and .txt of our features checklist for tracking feature implementation
 * <b>Pictures</b>:    Reference pictures
-* <b>Meeting notes</b>:    Contains notes on our meetings or work seshions
 * <b>Project</b>:     Contains the project lvlps, lvproj and alias files for proper linking
 * <b>Test files</b>:  Contains the test files (vi, wav, mp3, csv, etc.) 
 * <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program 
 <br/>
 Note: The Oscilloscope.vi is our main VI program to run
+
+## Meeting Notes
+https://sfuca0-my.sharepoint.com/:w:/g/personal/jmundra_sfuca0_onmicrosoft_com/EYpSmdjfytJAsx2PuVz0oXsBiis0jaeZZcZ1D03k6TCFTQ?rtime=FFteHuls2Eg
+
+## Features Checklist
+https://sfuca0-my.sharepoint.com/:w:/g/personal/jpacamar_sfuca0_onmicrosoft_com/Ef9F2MICSh1Nvns9HcJNUoEB8523q1uTJF0U1xLf-tY1ng?e=Z9zybv
 
 ## Helpful Links
 [Getting started with labVIEW](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-labview%3Ftrk%3Dshare_ent_url&account=67553266) <br />
