@@ -1,4 +1,5 @@
 This folder will contain:
 
 - subVIs
-- All dependancies
+- All VI dependancies
+ 
