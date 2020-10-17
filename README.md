@@ -11,11 +11,18 @@ Oscilloscope program using LabView with basic time and frequency domain features
 ## Folder Organization
 * <b>Display</b>:     Contains the VI module that displays our input waveform
 * <b>Executable</b>:  Contains the executable file
-* <b>Features</b>:    Contains the .docx and .txt of our features checklist for tracking feature implementation
 * <b>Pictures</b>:    Reference pictures
 * <b>Project</b>:     Contains the project lvlps, lvproj and alias files for proper linking
 * <b>Test files</b>:  Contains the test files (vi, wav, mp3, csv, etc.) 
-* <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program
+* <b>subVI</b>:       Contains the subVIs and dependancies to be used throughout the program 
+<br/>
+Note: The Oscilloscope.vi is our main VI program to run
+
+## Meeting Notes
+https://sfuca0-my.sharepoint.com/:w:/g/personal/jmundra_sfuca0_onmicrosoft_com/EYpSmdjfytJAsx2PuVz0oXsBiis0jaeZZcZ1D03k6TCFTQ?rtime=FFteHuls2Eg
+
+## Features Checklist
+https://sfuca0-my.sharepoint.com/:w:/g/personal/jpacamar_sfuca0_onmicrosoft_com/Eao-jmYIa8xAtl5ntI22ZywBv2d_BHgjBzcks-CBqQQowg?e=ndlR9f
 
 ## Meeting Notes
 https://sfuca0-my.sharepoint.com/:w:/g/personal/jmundra_sfuca0_onmicrosoft_com/EYpSmdjfytJAsx2PuVz0oXsBiis0jaeZZcZ1D03k6TCFTQ?rtime=FFteHuls2Eg
@@ -27,7 +34,7 @@ https://sfuca0-my.sharepoint.com/:w:/g/personal/jpacamar_sfuca0_onmicrosoft_com/
 [Getting started with labVIEW](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-labview%3Ftrk%3Dshare_ent_url&account=67553266) <br />
 [Best Practices for Managing NI LabVIEW Applications Using the Project Explorer](https://www.ni.com/en-ca/support/documentation/supplemental/08/best-practices-for-managing-ni-labview-applications-using-the-pr.html#section-1065174310)  <br />
 [labVIEW Style Checklist](https://zone.ni.com/reference/en-XX/help/371361R-01/lvdevconcepts/checklist/) <br/>
-[Basics of git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) <br />
+[Basics - Using Github Desktop](https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html) <br />
 
 ## Git Tutorial Video
 Hi I created a quick git tutorial for using it in this project. Please view it [here](https://www.youtube.com/watch?v=6JEwDfjpPsQ).
